@@ -10,7 +10,7 @@ cloudinary.config({
 const storage = new CloudinaryStorage({
     cloudinary,
     params: {
-        folder: 'CoMeds',
+        folder: 'Medify',
         allowedFormats: ['jpeg', 'png', 'jpg']
     }
 });
