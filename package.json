@@ -1,5 +1,5 @@
 {
-    "name": "comeds",
+    "name": "Medify",
     "version": "1.0.0",
     "description": "An e-Commerce Website built to provide a common platform between the medicine, oxygen-cylinders and other medical equipments suppliers and the patients in need.",
     "main": "server.js",
@@ -38,13 +38,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/arkarn04/comeds-hf21.git"
+        "url": "git+https://github.com/aky03/Medify.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/arkarn04/comeds-hf21/issues"
+        "url": "https://github.com/aky03/Medify/issues"
     },
-    "homepage": "https://github.com/arkarn04/comeds-hf21#readme"
+    "homepage": "https://github.com/aky03/Medify#readme"
 }
