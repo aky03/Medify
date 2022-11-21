@@ -139,7 +139,7 @@ router.post('/:id/buy', isbuyerNotSeller, async(req, res) => {
 
         client.messages
             .create({
-                body: `Dear seller, the amount of ${foundProduct.name} available for selling on CoMeds.com has reduced to zero, Kindly take necessary actions.`,
+                body: `Dear seller, the amount of ${foundProduct.name} available for selling on Medify.com has reduced to zero, Kindly take necessary actions.`,
                 from: '+18173857837',
                 to: '+919304257915'
             })
